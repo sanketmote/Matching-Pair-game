@@ -14,3 +14,7 @@ RULES:
 3.If you click two cards that arw not identical, then, they will flip back again. if you click two identical cards then they will remove. 
 
 4.You have to flip all the 16 cards in minimum number of moves.
+
+Link for code :
+
+https://sanketmote.github.io/Matching-Pair-game/animal.py
