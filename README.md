@@ -2,11 +2,10 @@
 
 Matching Pairs - Python Game
 
-Based on the old and popular mechanic of matching similar tiles/images/cards.
-
-Feel free to use this game,its code and assets for whatever you please. Just do not be evil.
+Based on the old and popular mechanism of matching similar tiles/images/cards.
 
 RULES: 
+
 1.You have to select a card by clicking on it. It's image will get shown. 
 
 2.Then you have to click other cards to find the one that matches with the previous card. 
